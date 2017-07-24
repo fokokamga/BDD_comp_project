@@ -1,0 +1,55 @@
+
+
+.h5{
+
+    font-weight: bold;
+}
+
+.position_tab {
+
+  margin-right:auto;
+  margin-left:auto;
+
+}
+
+.texteenveloppe{
+    font-family: sans-serif;
+    font-size: 0.7em;
+}
+.textetitreenveloppe{
+    font-family: sans-serif;
+    font-size: 0.9em;
+}
+
+input
+{
+  height: 30px;
+  width: 155px;
+
+}
+label {
+  float: left;
+  display: block;
+  width: 230px
+
+
+}
+
+option{
+  font-family: sans-serif;
+  font-size: 0.8em;
+}
+
+footer{
+  position: relative;
+
+  top: 800px;
+  left: 225px;
+  display: table-row;
+}
+.copyright {
+  width:1440px;
+  min-height:105px;
+  background-color:#bdbdbd ;
+
+}
